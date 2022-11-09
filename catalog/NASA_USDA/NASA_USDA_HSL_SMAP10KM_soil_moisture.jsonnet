@@ -42,6 +42,7 @@ local self_ee_catalog_url = ee_const.ee_catalog_url + basename;
     This dataset was developed by the Hydrological Science Laboratory at NASA's Goddard Space
     Flight Center in cooperation with USDA Foreign Agricultural Services and USDA Hydrology
     and Remote Sensing Lab.
+    “Data is temporarily interrupted – sorry for the inconvenience”.
   |||,
   license: license.id,
   links: ee.standardLinks(subdir, id),
